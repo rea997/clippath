@@ -1,0 +1,2 @@
+# clippath
+clippath ushtrime
